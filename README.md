@@ -2,9 +2,9 @@
 
 Simple Svelte action wrapping [@github/hotkey](https://github.com/github/hotkey) taking care of the lifecycle.
 
-Usage: `use:hotkey={'j'}` - which results in `data-hotkey="j"`.
+## Usage
 
-## Example
+`use:hotkey={'j'}` results in `data-hotkey="j"`
 
 ```html
 <script>
