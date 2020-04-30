@@ -20,6 +20,10 @@ Usage: `use:hotkey={'j'}` - which results in `data-hotkey="j"`.
 
 ## Run example
 
+Run on [REPL](https://svelte.dev/repl/b9cdad396713436aa45df4bc39219a6b?version=3.21.0)
+
+Run locally:
+
 ```bash
 cd example
 npm run dev
