@@ -1,12 +1,10 @@
 {
   "name": "svelte-gh-hotkey",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Svelte action for @github/hotkey",
   "repository": "selevt/svelte-gh-hotkey",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "license": "MIT",
   "dependencies": {
     "@github/hotkey": "^1.4.0"
