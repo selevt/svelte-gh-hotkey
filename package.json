@@ -1,13 +1,14 @@
 {
   "name": "svelte-gh-hotkey",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Svelte action for @github/hotkey",
   "repository": "selevt/svelte-gh-hotkey",
+  "type": "module",
   "main": "index.js",
   "scripts": {},
   "license": "MIT",
   "dependencies": {
-    "@github/hotkey": "^1.4.0"
+    "@github/hotkey": "^1.4.4"
   },
   "files": [
     "README.md",
